@@ -46,3 +46,6 @@ Welcome to my application repository for **Nimble GTM**. This repository showcas
 
 ## 📬 Contact Information
 * **Email:** tanishk.23bce10934@vitbhopal.ac.in
+* **Phone:** +91 9175197337
+## 📄 Download Full Document
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_Itgeeks/blob/main/Tanishk_Navlakhe_ITgeeks.pdf)**
