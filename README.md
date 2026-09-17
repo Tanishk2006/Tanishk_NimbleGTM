@@ -17,7 +17,7 @@ Strong English communication skills with hands-on experience in structured docum
 I'm genuinely curious about how B2B revenue operations and CRM systems work. NimbleGTM's focus on real client implementations — rather than theoretical assignments — is exactly the kind of hands-on learning environment I'm looking for.
 
 ## Projects
--#### **InboundLeadFlow – CRM Automation & RevOps Pipeline**([GitHub](https://github.com/Tanishk2006/InboundLeadFlow))
+-#### **InboundLeadFlow – CRM Automation & RevOps Pipeline**([GitHub](https://github.com/Tanishk2006/InboundLeadFlow)) 
 • Designed and modeled an automated inbound lead ingestion workflow simulating a HubSpot-focused Revenue Operations (RevOps) pipeline.
 • Implemented data structuring, user lifecycle stage assignments, conditional routing logic, and data tier classification end-to-end.
 • Authored comprehensive process mapping documentation to outline lead qualification stages and eliminate user workflow friction.
