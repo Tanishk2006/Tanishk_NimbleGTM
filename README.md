@@ -1,51 +1,27 @@
-# Tanishk Navlakhe - Professional Portfolio
+# Tanishk Navlakhe — Application for CRM Implementation Internship
 
-Welcome to my application repository for **Nimble GTM**. This repository showcases my technical training, certifications, and projects focused on data handling, process mapping, and workflow logic.
-
----
-
-## 💼 Featured Projects
-
-### **1. AI-Powered Personal Finance Advisor**
-* **Objective:** Developed a data analytics tool that processes personal financial metrics to automate budgeting audits and health assessments.
-* **Process Logic:** Configured backend validation engines to calculate savings rates and automatically trigger risk warning flags when fixed/variable expenses exceed safe thresholds.
-* **Data Automation:** Integrated API communication layers to map computational raw data into structured, client-facing financial summaries.
-* **Business Value:** Demonstrates proficiency in designing data workflows, conditional automated triggers, and actionable data reporting pipelines.
-
-### **2. Library Management System**
-* **Objective:** Built an end-to-end database application during a 1.5-month structured Advanced Software Engineering training program.
-* **Development Lifecycle:** Applied full SDLC methodologies from initial requirements gathering through to deployment testing.
-* **Workflows & Documentation:** Conducted usability testing to refine system user flows and authored comprehensive project documentation.
+**Applicant:** Tanishk Navlakhe  
+**Email:** tanishk.23bce10934@vitbhopal.ac.in/navlakhetanishk@gmail.com 
+**LinkedIn:** [linkedin.com/in/tanishk-navlakhe](https://www.linkedin.com/in/tanishk-navlakhe-703b792a7)  
+**GitHub:** [github.com/Tanishk2006](https://github.com/Tanishk2006)  
 
 ---
 
-## 📜 Certifications & Training
-* **NASSCOM FutureSkills PRIME:** AWS Data Analytics *(In Progress)*
-* **Oracle Cloud Infrastructure:** 2025 Data Science Professional Certificate
-* **Oracle Cloud Infrastructure:** 2025 Generative AI Professional Certificate
-* **IBM WatsonX:** Gen AI Using IBM WatsonX Certificate
-* **Google:** IT Tech Support Professional Certificate
-* **Google:** The Bits and Bytes of Computer Networking
+## About Me
 
----
+B.Tech Computer Science undergraduate at VIT Bhopal University (2023–2027, CGPA: 7.5).  
+Strong English communication skills with hands-on experience in structured documentation, data reporting, and business process thinking.
 
-## 🛠️ Core Skills & Tools
-* **Data & Analytics:** Data Entry, Data Cleaning, Data Extraction, Analytical Troubleshooting, SQL, DBMS.
-* **Process & Management:** Systems Development Lifecycle (SDLC), Requirement Analysis, Usability Testing, Time Prioritization.
-* **Software Tools:** MS-Excel, MS-Word, MS-PowerPoint, Canva.
+## Why NimbleGTM
 
----
+I'm genuinely curious about how B2B revenue operations and CRM systems work. NimbleGTM's focus on real client implementations — rather than theoretical assignments — is exactly the kind of hands-on learning environment I'm looking for.
 
-## 🎓 Education
-* **B.Tech, Computer Science & Engineering (CGPA: 7.5)** | 2023 – 2027
-  *VIT Bhopal University*
-* **Higher Secondary (12th), Science (71%)**
-  *Rankers International School, Indore, M.P.*
+## Projects
+- **InboundLeadFlow** — HubSpot-style inbound lead pipeline simulation ([GitHub](https://github.com/Tanishk2006/InboundLeadFlow))
+- **RetainIQ** — Client analytics and KPI reporting tool
+- **AI-Powered Personal Finance Advisor** — Claude AI + rule-based analysis ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
 
----
-
-## 📬 Contact Information
-* **Email:** tanishk.23bce10934@vitbhopal.ac.in
-* **Phone:** +91 9175197337
+## Resume
+See `Tanishk_Navlakhe_Resume_NimbleGTM.pdf` in this repository.
 ## 📄 Download Full Document
 👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_NimbleGTM/blob/main/Tanishk_Navlakhe_NimbleGTM.pdf)**
