@@ -43,4 +43,4 @@ I'm genuinely curious about how B2B revenue operations and CRM systems work. Nim
 
 
 ## 📄 Download Full Document
-👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_NimbleGTM/blob/main/Tanishk_Navlakhe_NimbleGTM.pdf)**
+👉 **[Click Here to Download My Official Resume PDF](https://github.com/Tanishk2006/Tanishk_NimbleGTM/blob/main/Tanishk_NimbleGTM.pdf)**
