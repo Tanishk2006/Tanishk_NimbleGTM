@@ -29,7 +29,7 @@ I'm genuinely curious about how B2B revenue operations and CRM systems work. Nim
  • Developed a system for data segmentation, risk level monitoring, and automated high-risk account flagging to generate strategic reports.                        
  • Designed a live-updating executive analytics dashboard to monitor client account health metrics and operational key performance indicators (KPIs). 
 
-#### **AI-Powered Personal Finance Advisor | Rule-Based Process Automation** ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
+#### **AI-Powered Personal Finance Advisor | Rule-Based Process Automation** ([GitHub](https://github.com/Tanishk2006/Ai-powered-personal-finance-advisor))
  
  • Developed an analytical application to process financial metrics, automate budgeting audits, and track data health assessments.                                 
  • Configured functional validation engines to run rule-based calculations and automatically trigger threshold risk warning flags.                                 
