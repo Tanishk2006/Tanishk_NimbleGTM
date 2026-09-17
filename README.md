@@ -17,28 +17,29 @@ Strong English communication skills with hands-on experience in structured docum
 I'm genuinely curious about how B2B revenue operations and CRM systems work. NimbleGTM's focus on real client implementations — rather than theoretical assignments — is exactly the kind of hands-on learning environment I'm looking for.
 
 ## Projects
-#### **InboundLeadFlow – CRM Automation & RevOps Pipeline**
-([GitHub](https://github.com/Tanishk2006/InboundLeadFlow)) 
-• Designed and modeled an automated inbound lead ingestion workflow simulating a HubSpot-focused Revenue Operations (RevOps) pipeline.
-• Implemented data structuring, user lifecycle stage assignments, conditional routing logic, and data tier classification end-to-end.
-• Authored comprehensive process mapping documentation to outline lead qualification stages and eliminate user workflow friction.
+#### **InboundLeadFlow – CRM Automation & RevOps Pipeline** ([GitHub](https://github.com/Tanishk2006/InboundLeadFlow)) 
+ 
+ • Designed and modeled an automated inbound lead ingestion workflow simulating a HubSpot-focused Revenue Operations (RevOps) pipeline. 
+ • Implemented data structuring, user lifecycle stage assignments, conditional routing logic, and data tier classification end-to-end.  
+  • Authored comprehensive process mapping documentation to outline lead qualification stages and eliminate user workflow friction. 
 
-#### **RetainIQ | Client Analytics & Performance Reporting**
-([GitHub](https://github.com/Tanishk2006/RetainIQ))
-• Engineered a business intelligence portfolio tool managing structured data analytics and performance tracking for 1,000 corporate client accounts.
-• Developed a system for data segmentation, risk level monitoring, and automated high-risk account flagging to generate strategic reports.
-• Designed a live-updating executive analytics dashboard to monitor client account health metrics and operational key performance indicators (KPIs).
+#### **RetainIQ | Client Analytics & Performance Reporting** ([GitHub](https://github.com/Tanishk2006/RetainIQ))
+ 
+ • Engineered a business intelligence portfolio tool managing structured data analytics and performance tracking for 1,000 corporate client accounts.              
+ • Developed a system for data segmentation, risk level monitoring, and automated high-risk account flagging to generate strategic reports.                        
+ • Designed a live-updating executive analytics dashboard to monitor client account health metrics and operational key performance indicators (KPIs). 
 
-#### **AI-Powered Personal Finance Advisor | Rule-Based Process Automation**
-([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
-• Developed an analytical application to process financial metrics, automate budgeting audits, and track data health assessments.
-• Configured functional validation engines to run rule-based calculations and automatically trigger threshold risk warning flags.
-• Integrated the Claude API to automatically transform rule-based findings and structured data analysis into clear, natural-language reporting summaries.
+#### **AI-Powered Personal Finance Advisor | Rule-Based Process Automation** ([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
+ 
+ • Developed an analytical application to process financial metrics, automate budgeting audits, and track data health assessments.                                 
+ • Configured functional validation engines to run rule-based calculations and automatically trigger threshold risk warning flags.                                 
+ • Integrated the Claude API to automatically transform rule-based findings and structured data analysis into clear, natural-language reporting summaries.  
 
 #### **Library Management System | Database Process Mapping**
-• Completed a full-cycle database application applying structured Systems Development Lifecycle (SDLC) methodologies from requirement gathering through deployment.
-• Translated operational business workflows into clear, comprehensive technical specifications and formal technical documentation.
-• Executed extensive usability testing and functional testing across the system to optimize user paths and streamline data inputs.
+ 
+ • Completed a full-cycle database application applying structured Systems Development Lifecycle (SDLC) methodologies from requirement gathering through deployment.                                                                                                                                                        
+ • Translated operational business workflows into clear, comprehensive technical specifications and formal technical documentation.                                
+ • Executed extensive usability testing and functional testing across the system to optimize user paths and streamline data inputs. 
 
 
 ## 📄 Download Full Document
