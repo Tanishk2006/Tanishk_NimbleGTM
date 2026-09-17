@@ -1,7 +1,7 @@
 # Tanishk Navlakhe — Application for CRM Implementation Internship
 
 **Applicant:** Tanishk Navlakhe  
-**Email:** tanishk.23bce10934@vitbhopal.ac.in/navlakhetanishk@gmail.com 
+**Email:** tanishk.23bce10934@vitbhopal.ac.in/navlakhetanishk@gmail.com  
 **LinkedIn:** [linkedin.com/in/tanishk-navlakhe](https://www.linkedin.com/in/tanishk-navlakhe-703b792a7)  
 **GitHub:** [github.com/Tanishk2006](https://github.com/Tanishk2006)  
 
@@ -22,7 +22,7 @@ I'm genuinely curious about how B2B revenue operations and CRM systems work. Nim
 • Implemented data structuring, user lifecycle stage assignments, conditional routing logic, and data tier classification end-to-end.
 • Authored comprehensive process mapping documentation to outline lead qualification stages and eliminate user workflow friction.
 
-#### **RetainIQ | Client Analytics & Performance Reporting**
+#### **RetainIQ | Client Analytics & Performance Reporting**([GitHub](https://github.com/Tanishk2006/Finance-Tip-Generator))
 • Engineered a business intelligence portfolio tool managing structured data analytics and performance tracking for 1,000 corporate client accounts.
 • Developed a system for data segmentation, risk level monitoring, and automated high-risk account flagging to generate strategic reports.
 • Designed a live-updating executive analytics dashboard to monitor client account health metrics and operational key performance indicators (KPIs).
